@@ -3364,8 +3364,6 @@ class GMail:
         #------------------------------------------------------------------
         TO = ["example@gmail.com" ,
               ]
-        # For Debug
-        #TO = ["tw.stock.lai@gmail.com" ,"smouse0220@gmail.com"]
 
         #Mail List Trans String
         To_Lists = ",".join(TO)
