@@ -1,2 +1,2 @@
 # TW_Index
-# Ver 1.1.24 : Release For Guthub
+# Ver 1.1.24 : Release For Github
